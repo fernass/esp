@@ -1,0 +1,7 @@
+source "D:/Dokumente/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "D:/Dokumente/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "D:/Dokumente/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "D:/Dokumente/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "D:/Dokumente/esp/esp-iot-solution/examples/common_components/boards/Kconfig.projbuild"
+source "D:/Dokumente/esp/esp-iot-solution/components/sensors/sensor_hub/Kconfig.projbuild"
+source "D:/Dokumente/Workspace_esp/alarm_external_unit/main/Kconfig.projbuild"
